@@ -1,0 +1,8 @@
+import speech_recongination as sr 
+import pyttsx3
+import datetime
+import wikipedia
+import webbrowser 
+
+#Intialize the speecgh recongination and text-
+r =`sr.Recongination`
